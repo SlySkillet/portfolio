@@ -2,6 +2,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom';
 import NavBar from './Nav'
 import About from './About';
 import Projects from './Projects';
+import Resume from './Resume';
 
 function App() {
   return (
@@ -12,8 +13,8 @@ function App() {
         <Routes>
           <Route path="/" element={ <About /> } />
           <Route path="projects/" element={ <Projects />} />
-          {/* <Route path="resume/" element={ <Resume />} />
-          <Route path="contact/" element={ <Contact /> }/> */}
+          <Route path="resume/" element={ <Resume />} />
+          {/* <Route path="contact/" element={ <Contact /> }/> */}
         </Routes>
       </div>
     </HashRouter>
