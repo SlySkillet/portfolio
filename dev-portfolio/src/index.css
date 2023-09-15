@@ -17,7 +17,7 @@ code {
   min-height: 100vh;
   grid-template-columns: 0px 200px 1fr 1fr 0fr 200px 0px;
   grid-template-rows: 92px 60px 1fr 1fr 60px;
-  background-image: url(https://i.etsystatic.com/13925266/r/il/5c4bcb/1273226807/il_fullxfull.1273226807_pxtx.jpg);
+  background-image: url(https://res.cloudinary.com/ddgt67wcb/image/upload/v1694810011/map_background_1__Fotor_uuozwc.jpg);
 }
 
 .container{
@@ -102,7 +102,7 @@ a.navbar-link.nav-link.active {
   margin-left: 50px;
   margin-right: 50px;
   width: 900px;
-  box-shadow: 1px 1px 20px 8px rgb(88,71,33)
+  box-shadow: 1px 1px 30px 3px rgb(88,71,33)
 }
 .about-content-name-container {
   display: flex;
