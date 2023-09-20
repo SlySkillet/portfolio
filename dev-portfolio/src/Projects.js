@@ -56,7 +56,7 @@ function Projects(){
                         ]}
                         description={"I created this peer-to-peer marketplace application from scratch in a team of four cohort-mates at Hack Reactor. We began with the idea to build a platform housing informal classes for local people to share their knowledge, acquire new skills and foster community. This was my first experience taking a full stack application from seed to deployment. Over 6 weeks we wire-framed our vision for the application, built a development environment with docker, created our backend using Fast API and a SQL database, and created a dynamic user interface with React.js. This was a lesson in iterative development and agile methodology. Working in a team like this was a hands on lesson in Git workflow and general project organization. We used Linear to create and assign tickets and linked it up with Git Lab where we filled our merge requests. I am particularly proud of my work in implementing the Google Maps API and Redux toolkit into this project. The map centers on the authenticated user's address provided in their account information and accessed through the Redux store. Learning to work with global state and Google API were my highest priority learning goals in this project and I'm very happy with our product."}
                         liveLink={"https://luckythirteen.gitlab.io/plunge/"}
-                        repoLink={"https://gitlab.com/luckythirteen/plunge"}
+                        repoLink={"https://github.com/SlySkillet/plunge"}
                         techStack={`React | FastAPI | Python | Javascript | SQL | GoogleMaps`}
                     />
                 </div>
@@ -70,7 +70,7 @@ function Projects(){
                             <SiReact className="tech-icon" />
                             <SiJavascript className="tech-icon" />
                         </div>
-                        <p className="project-description">This portfolio housing my projects is a project in itself. I built this from scratch using React and deployed it with github pages. I am not providing any screenshots for this one, anyone reading this is already looking at the live site. This is a work in progress, one I will refactor and expand going forward. I'm excited to share more repos and deployed applications as I build more. Anyone curious can view my code at the repo link below. </p>
+                        <p className="project-description">I built the site you are viewing now from scratch using React and deployed it with GitHub pages. I really enjoyed putting this together and trying out some new design ideas in the process. This is a work in progress, one I will refactor and expand going forward. See my code at the repo-link below.</p>
                         <div className="project-detail-container">
                             <p className="project-detail">Repo: <Link className="project-link" to="https://github.com/SlySkillet/simons-developer-portfolio/" target="_blank" rel="noopener noreferrer">GitHub</Link></p>
                         </div>
@@ -113,7 +113,7 @@ function Projects(){
                         ]}
                         description={"This is the first application I built from scratch using Django. It is a task manager for a contributors to a project to organize and visualize team progress. This was my first try at implementing a 3rd party api (plotly) and data visualization. I built a full stack application from scratch giving a project manager the ability to assign and monitor progress through a clean user interface with Django 4 framework. I inncorporated gantt charts in the user interface to provide visual representation of project tasks, their due dates and progress towards completion by integrating Plotly API."}
                         liveLink={null}
-                        repoLink={"https://gitlab.com/SlySkillet/project-alpha-apr/-/tree/chart_experiment?ref_type=heads"}
+                        repoLink={"https://github.com/SlySkillet/task-manager/tree/chart_experiment"}
                         techStack={`Django | Python | Plotly API`}
                     />
                 </div>
@@ -134,7 +134,7 @@ function Projects(){
                             <SiReact className="tech-icon" />
                             <SiJavascript className="tech-icon" />
                         </div>
-                        <p className="project-description">This portfolio housing my projects is a project in itself. I built this from scratch using React and deployed it with github pages. I am not providing any screenshots for this one, anyone reading this is already looking at the live site. This is a work in progress, one I will refactor and expand going forward. I'm excited to share more repos and deployed applications as I build more. Anyone curious can view my code at the repo link below. </p>
+                        <p className="project-description">I built the site you are viewing now from scratch using React and deployed it with GitHub pages. I really enjoyed putting this together and trying out some new design ideas in the process. This is a work in progress, one I will refactor and expand going forward. See my code at the repo-link below. </p>
                         <div className="project-detail-container">
                             <p className="project-detail">Repo: <Link className="project-link" to="https://github.com/SlySkillet/simons-developer-portfolio/" target="_blank" rel="noopener noreferrer">GitHub</Link></p>
                         </div>
@@ -164,7 +164,7 @@ function Projects(){
                         ]}
                         description={"I created this peer-to-peer marketplace application from scratch in a team of four cohort-mates at Hack Reactor. We began with the idea to build a platform housing informal classes for local people to share their knowledge, acquire new skills and foster community. This was my first experience taking a full stack application from seed to deployment. Over 6 weeks we wire-framed our vision for the application, built a development environment with docker, created our backend using Fast API and a SQL database, and created a dynamic user interface with React.js. This was a lesson in iterative development and agile methodology. Working in a team like this was a hands on lesson in Git workflow and general project organization. We used Linear to create and assign tickets and linked it up with Git Lab where we filled our merge requests. I am particularly proud of my work in implementing the Google Maps API and Redux toolkit into this project. The map centers on the authenticated user's address provided in their account information and accessed through the Redux store. Learning to work with global state and Google API were my highest priority learning goals in this project and I'm very happy with our product."}
                         liveLink={"https://luckythirteen.gitlab.io/plunge/"}
-                        repoLink={"https://gitlab.com/luckythirteen/plunge"}
+                        repoLink={"https://github.com/SlySkillet/plunge"}
                         techStack={`React | FastAPI | Python | Javascript | SQL | GoogleMaps`}
                     />
                     < ProjectCard
@@ -202,7 +202,7 @@ function Projects(){
                         ]}
                         description={"This is the first application I built from scratch using Django. It is a task manager for a contributors to a project to organize and visualize team progress. This was my first try at implementing a 3rd party api (plotly) and data visualization. I built a full stack application from scratch giving a project manager the ability to assign and monitor progress through a clean user interface with Django 4 framework. I inncorporated gantt charts in the user interface to provide visual representation of project tasks, their due dates and progress towards completion by integrating Plotly API."}
                         liveLink={null}
-                        repoLink={"https://gitlab.com/SlySkillet/project-alpha-apr/-/tree/chart_experiment?ref_type=heads"}
+                        repoLink={"https://github.com/SlySkillet/task-manager/tree/chart_experiment"}
                         techStack={`Django | Python | Plotly API`}
                     />
                 </div>
