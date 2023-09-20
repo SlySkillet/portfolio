@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.83a472ac.css",
-    "main.js": "/portfolio/static/js/main.39b920ba.js",
+    "main.js": "/portfolio/static/js/main.6b07d0c0.js",
     "static/js/787.eef0f175.chunk.js": "/portfolio/static/js/787.eef0f175.chunk.js",
     "static/media/portrait.JPEG": "/portfolio/static/media/portrait.0a240398167293dad70c.JPEG",
     "static/media/simon_conrad_resume_current.pdf": "/portfolio/static/media/simon_conrad_resume_current.07c18eca0f77907e4741.pdf",
     "index.html": "/portfolio/index.html",
     "main.83a472ac.css.map": "/portfolio/static/css/main.83a472ac.css.map",
-    "main.39b920ba.js.map": "/portfolio/static/js/main.39b920ba.js.map",
+    "main.6b07d0c0.js.map": "/portfolio/static/js/main.6b07d0c0.js.map",
     "787.eef0f175.chunk.js.map": "/portfolio/static/js/787.eef0f175.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83a472ac.css",
-    "static/js/main.39b920ba.js"
+    "static/js/main.6b07d0c0.js"
   ]
 }
