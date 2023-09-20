@@ -95,7 +95,7 @@ function Projects(){
                         ]}
                         description={"This was a challenging project I took on in the second module of Hack Reactor. Many thanks to my partner Mac Stephens! Together we put together three microservices to handle an auto-dealership's inventory, services and sales. After completing a functional application, I did some experimenting with the user interface and gained some valuable experience incorporating bootstrap and custom css in React."}
                         liveLink={null}
-                        repoLink={"https://gitlab.com/macstephens/project-beta/-/tree/layout-experiment"}
+                        repoLink={"https://github.com/SlySkillet/radcar/tree/layout-experiment"}
                         techStack={`Django | React | Python | Javascript | Docker`}
                     />
                     < ProjectCard
@@ -184,7 +184,7 @@ function Projects(){
                         ]}
                         description={"This was a challenging project I took on in the second module of Hack Reactor. Many thanks to my partner Mac Stephens! Together we put together three microservices to handle an auto-dealership's inventory, services and sales. After completing a functional application, I did some experimenting with the user interface and gained some valuable experience incorporating bootstrap and custom css in React."}
                         liveLink={null}
-                        repoLink={"https://gitlab.com/macstephens/project-beta/-/tree/layout-experiment"}
+                        repoLink={"https://github.com/SlySkillet/radcar/tree/layout-experiment"}
                         techStack={`Django | React | Python | Javascript | Docker`}
                     />
                     < ProjectCard
